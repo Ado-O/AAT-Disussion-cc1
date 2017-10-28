@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AATDisussionCC1</string>
+    <string name="dialog_message">!!DIALOG</string>
+    <string name="dialog_title">B1</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Fragment</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+
+        <Button
+            android:id="@+id/b3"
+            android:layout_width="305dp"
+            android:layout_height="wrap_content"
+            android:text="Vraca na 1activity" />
+
+        <fragment
+            android:id="@+id/fragment"
+            android:name="com.example.android.aatdisussioncc1.MyFragmant"
+            android:layout_width="331dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+</LinearLayout>
